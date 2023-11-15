@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Cosmetic products</title>
+</head>
+<meta charset="UTF-8">
+
+<body>
+    <h1>Categories of cosmetics</h1>
+    <ol type="I">
+        <li><b>Body care</b></li>
+        <li><b>Makeup</b></li>
+        <ol>
+            <li>Lips</li>
+            <ul>
+                <li>Lipstick</li>
+                <dl>
+                    <dt><i>Shine Lipstick</i></li>
+                    <dd>Glossy liquid lipsticks provide a high-shine, lustrous finish</dd>
+                    <dt><i>Matte Lipstick</i></li>
+                    <dd>Matte liquid lipsticks offer a velvety, non-shiny appearance</dd>
+                    <ol type="&#97;">
+                        <li>Retro Matte Lipstick</li>
+                        <ul>
+                            <li>red</li>
+                            <ol>
+                                <li>Dark red</li>
+                                <li>Light red</li>
+                                <li>Classic red</li>
+                            </ol>
+                            <li>beige</li>
+                            <li>pink</li>
+                            <li>purple</li>
+
+
+                        </ul>
+                        <li>Liquid Matte Lipstick</li>
+            </ul>
+            <li>Lip Glosser</li>
+            <li>Lip liner</li>
+            <li>Lip balm</li>
+            </ul>
+
+            <li>Face</li>
+            <li>Eyes</li>
+        </ol>
+        <li><b>Hair care</b></li>
+        <li><b>Nail care</b></li>
+        <li><b>Fragnance</b></li>
+
+    </ol>
+</body>
+
+</html>
