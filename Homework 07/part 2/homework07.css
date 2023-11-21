@@ -1,0 +1,213 @@
+.container {
+    width: 500px;
+    height: 500px;
+    border: 5px solid white;
+    position: relative;
+}
+
+
+.firstrow {
+    height: 40px;
+    border: 8px solid black;
+    position: relative;
+    border-top: none;
+    border-left: none;
+    left: 0;
+    top: 0;
+}
+
+#one {
+    position: absolute;
+    background-color: white;
+    width: 100px;
+    top: 0;
+    left: 0;
+}
+
+#two {
+    position: absolute;
+    background-color: white;
+    width: 196px;
+    height: 40px;
+    top: 0;
+    bottom: 0;
+    border-left: 8px solid black;
+    left: 100px;
+    border-bottom: 8px solid black;
+}
+
+#three {
+    position: absolute;
+    background-color: rgb(255, 204, 102);
+    width: 160px;
+    left: 300px;
+    border-left: 8px solid black;
+    top: 0;
+    height: 40px;
+    border-bottom: 8px solid black;
+    border-right: 8px solid black;
+}
+
+#four {
+    position: absolute;
+    width: 60px;
+    height: 115px;
+    background-color: white;
+    top: 48px;
+    border-right: 8px solid black;
+    border-bottom: 8px solid black;
+}
+
+#five {
+    position: absolute;
+    width: 232px;
+    height: 230px;
+    background-color: rgb(182, 33, 33);
+    top: 48px;
+    left: 68px;
+    border-right: 8px solid black;
+    border-bottom: 8px solid black;
+}
+
+#six {
+    position: absolute;
+    height: 115px;
+    width: 161px;
+    background-color: rgb(255, 204, 102);
+    top: 48px;
+    left: 307px;
+    border-right: 8px solid black;
+    border-bottom: 8px solid black;
+}
+
+#seven {
+    position: relative;
+    height: 190px;
+    width: 60px;
+    border-right: 8px solid black;
+    background-color: #e6ffe6;
+    top: 171px;
+    left: 0;
+    border-bottom: 8px solid black;
+
+}
+
+#eight {
+    position: absolute;
+    height: 150px;
+    width: 108px;
+    background-color: #1a000d;
+    top: 286px;
+    left: 68px;
+    border-bottom: 8px solid black;
+    border-right: 8px solid black;
+}
+
+#nine {
+    position: absolute;
+    height: 75px;
+    width: 116px;
+    background-color: #c2c2a3;
+    top: 286px;
+    left: 184px;
+    border-right: 8px solid black;
+    border-bottom: 8px solid black;
+}
+
+#ten {
+    position: absolute;
+    height: 67px;
+    width: 116px;
+    background-color: #ebebe0;
+    left: 184px;
+    top: 369px;
+    border-right: 8px solid black;
+    border-bottom: 8px solid black;
+
+}
+
+#eleven {
+    position: absolute;
+    height: 131px;
+    width: 60px;
+    background-color: #ffcc66;
+    top: 369px;
+    left: 0;
+    border-right: 8px solid black;
+}
+
+#twelve {
+    position: absolute;
+    width: 109px;
+    background-color: white;
+    border-right: 8px solid black;
+    height: 56px;
+    top: 444px;
+    left: 68px;
+}
+
+#thirteen {
+    position: absolute;
+    background-color: black;
+    border-right: 8px solid black;
+    width: 115px;
+    height: 35px;
+    top: 444px;
+    left: 185px;
+}
+
+#fourteen {
+    position: absolute;
+    width: 80px;
+    height: 107px;
+    background-color: white;
+    border-right: 8px solid black;
+    top: 163px;
+    left: 308px;
+    border-top: 8px solid black;
+    border-bottom: 8px solid black;
+}
+
+#fifteen {
+    position: absolute;
+    width: 72px;
+    height: 107px;
+    border-right: 8px solid black;
+    border-bottom: 8px solid black;
+    top: 171px;
+    left: 396px;
+    background-color: white;
+}
+
+#sixteen {
+    position: absolute;
+    background-color: white;
+    width: 160px;
+    height: 75px;
+    top: 286px;
+    left: 308px;
+    border-bottom: 8px solid black;
+    border-right: 8px solid black;
+}
+
+#seventeen {
+    position: absolute;
+    width: 160px;
+    height: 102px;
+    background-color: rgb(44, 44, 109);
+    border-bottom: 8px solid black;
+
+    top: 369px;
+    left: 308px;
+}
+
+#eighteen {
+    position: absolute;
+    background-color: rgb(219, 48, 48);
+    top: 361px;
+    border-top: 8px solid black;
+    height: 131px;
+    width: 24px;
+    left: 468px;
+    border-left: 8px solid black;
+}
